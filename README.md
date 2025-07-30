@@ -1,0 +1,2 @@
+# lcd
+local config database
